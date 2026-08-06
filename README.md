@@ -1,5 +1,10 @@
-- About Me
-I'm Snigdho Roy, a Software Engineering student at Daffodil International University majoring in Data Science. I'm passionate about web design and video editing
+## 👋 About Me
+
+Hi, I'm **Snigdho Kumar Roy**.
+
+🎓 I'm a **Software Engineering** student at **Daffodil International University** with a strong interest in **Data Science**, **Web Development**, and **Software Engineering**.
+
+💻 I enjoy building modern web applications, learning new technologies, and solving real-world problems through code. I'm continuously improving my programming skills and exploring both frontend and backend development.
 
 
 ## Socials:
