@@ -14,6 +14,9 @@ jobs:
 
     steps:
       - uses: lowlighter/metrics@latest
-       with:
+        with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: snigdho262
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_isocalendar: yes
