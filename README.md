@@ -1,10 +1,5 @@
-- 🔭 I’m currently working on
-- 👯 I’m looking to collaborate on
-- 🤝 I’m looking for help with
-- 🌱 I’m currently learning
-- 💬 Ask me about
-- ⚡ Fun fact
-
+- About Me
+I'm Snigdho Roy, a Software Engineering student at Daffodil International University majoring in Data Science. I'm passionate about web design and video editing
 
 
 ## Socials:
