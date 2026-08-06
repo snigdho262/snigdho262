@@ -14,6 +14,6 @@ jobs:
 
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+       with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: YOUR_USERNAME
+          user: snigdho262
