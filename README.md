@@ -18,7 +18,7 @@
 - 🌱 Interested in **Data Science**, **Web Development**, and **Software Engineering**
 - 💻 I enjoy building modern web applications, learning new technologies, and solving real-world problems through code
 - 🔭 Currently improving my skills across both **frontend** and **backend** development
-- ⚡ Fun fact: I love following football, especially during World Cup season ⚽
+- ⚡ Fun fact: I love following football, especially during World Cup season and the whole club tournament ⚽
 
 ---
 
