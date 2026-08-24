@@ -57,27 +57,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=snigdho262&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdho262&theme=tokyonight&hide_border=true&layout=compact" />
+  <a href="https://github.com/snigdho262">
+    <img alt="Snigdho's GitHub Stats" src="https://img.shields.io/badge/GitHub-Snigdho262-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=snigdho262&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snigdho262&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snigdho262&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <a href="https://github.com/snigdho262?tab=repositories">
+    <img alt="View Repositories" src="https://img.shields.io/badge/View-Repositories-brightgreen?style=for-the-badge" />
+  </a>
 </p>
 
 ---
