@@ -48,10 +48,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snigdho262" />
   <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snigdho262" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=snigdho262&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
