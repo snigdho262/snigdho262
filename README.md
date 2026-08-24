@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snigdho262"/>
+  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=snigdho262"/>
 </p>
 
 ---
