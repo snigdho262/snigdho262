@@ -50,7 +50,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snigdho262" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdho262&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snigdho262" />
 </p>
 
 <p align="center">
