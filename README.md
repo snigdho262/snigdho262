@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=snigdho262&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="[https://github-readme-stats.vercel.app/api?username=snigdho262&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=snigdho262)" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdho262&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
