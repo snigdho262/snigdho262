@@ -1,111 +1,88 @@
 <!-- Banner -->
 ![Snigdho Banner Image](./banner.png)
 
-<!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hɪ, I'ᴍ Sɴɪɢᴅʜᴏ Rᴏʏ!
-*Software Engineer | Data Science Enthusiast | Web Developer*
+# Hi there, I'm Snigdho Roy 👋
 
-<!-- Profile Count Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snigdho262&label=Profile%20views&color=6C63FF&style=for-the-badge&logo=star" alt="snigdho262" style="padding-right:20px;" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Data+Science+Enthusiast;Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snigdho262&style=for-the-badge&color=6C63FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/snigdho262?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-6C63FF?style=for-the-badge" alt="Location" />
 </p>
 
 ---
 
-<!-- Start Intro -->
-<p align="left">
-I'm a Software Engineering student at Daffodil International University with a passion for building modern web applications, solving real-world problems through code, and exploring Data Science & Machine Learning. I love contributing to open-source and continuously learning new technologies.
-</p>
+## 🎓 About Me
 
-- ✨ **Software Engineering** student at **Daffodil International University**
-- 🌱 Interested in **Data Science**, **Web Development**, and **Software Engineering**
-- 💻 Building full-stack applications with **React**, **Node.js**, and modern tech stacks
-- 🔭 Currently improving skills across **frontend**, **backend**, and **cloud** development
-- 🤝 Contributing to **open-source** projects
+- **Software Engineering** student at **Daffodil International University**
+- Interested in **Data Science**, **Web Development**, and **Software Engineering**
+- Building modern web applications and solving real-world problems through code
+- Currently improving skills across both **frontend** and **backend** development
 - ⚽ Fun fact: Football enthusiast — World Cup season never gets old!
 
 ---
 
-<!-- Tech Stack Section -->
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2>
+## 🚀 Current Projects & Learning
+
+- Building full-stack applications with **React** and **Node.js**
+- Deepening knowledge in **Data Science** and **Machine Learning**
+- Exploring **cloud computing** and DevOps practices
+- Database optimization and **SQL** advanced techniques
+
+---
+
+## 🛠️ Tech Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif" width="45%">
 </picture>
 
-<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,py,java,c,cpp,php,dart,mongodb,mysql,figma" />
+</p>
 
-<h3 align="left">Currently Learning</h3>
-<ul align="left">
-  <li>Advanced **Data Science** and **Machine Learning** techniques</li>
-  <li>Full-stack development with **React.js** and **Node.js**</li>
-  <li>Cloud computing with **AWS** and **Azure**</li>
-  <li>Database optimization and **SQL** advanced techniques</li>
-</ul>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-<br />
-<br />
-<br />
-<br />
+<br clear="both" />
 
 ---
 
-<!-- GitHub Stats Table -->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/snigdho262">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=snigdho262&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/snigdho262">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdho262&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/snigdho262">
-          <img align="center" src="https://streak-stats.demolab.com/?user=snigdho262&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/snigdho262">
-          <img align="center" src="https://github-profile-trophy.vercel.app/?username=snigdho262&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=snigdho262&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdho262&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=snigdho262&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!-- Contribution Graph -->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snigdho262&theme=tokyo-night&hide_border=true" alt="Activity graph">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snigdho262&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-<!-- Daily Quote Section -->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snigdho262&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+## 🌟 Thought of the Day
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -115,38 +92,28 @@ I'm a Software Engineering student at Daffodil International University with a p
 
 ---
 
-<!-- Contact Section -->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
+## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="mailto:snigdhoroy262@gmail.com" target="_blank">
-<img src="./gmail.png" width="50" height="50" alt="snigdhoroy262@gmail.com" style="margin: 10px;" />
-</a>
-
-<a href="https://twitter.com" target="_blank">
-<img src="./twitter.png" width="50" height="50" alt="Twitter" style="margin: 10px;" />
-</a>
-
-<a href="https://www.instagram.com/s_n_igdho_" target="_blank">
-<img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin: 10px;" />
-</a>
-
-<a href="https://github.com/snigdho262" target="_blank">
-<img src="./github.png" width="50" height="50" alt="GitHub" style="margin: 10px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/snigdho-roy-b19a24237" target="_blank">
-<img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin: 10px;" />
-</a>
-
-<a href="https://dev.to" target="_blank">
-<img src="./dev_to.png" width="50" height="50" alt="Dev.to" style="margin: 10px;" />
-</a>
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://discord.gg/snigdho_roy" target="_blank">
+    <img src="./dev_to.png" width="50" height="50" alt="Discord" style="margin: 10px;" />
+  </a>
+  <a href="https://facebook.com/snigdhoroy262" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="Facebook" style="margin: 10px;" />
+  </a>
+  <a href="https://instagram.com/s_n_igdho_" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/snigdho262" target="_blank">
+    <img src="./github.png" width="50" height="50" alt="GitHub" style="margin: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/snigdho-roy-b19a24237" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin: 10px;" />
+  </a>
+  <a href="mailto:snigdhoroy262@gmail.com" target="_blank">
+    <img src="./twitter.png" width="50" height="50" alt="Email" style="margin: 10px;" />
+  </a>
+</p>
 
 ---
 
